@@ -1,0 +1,5 @@
+{
+  "name": "electron-touchbar-sample",
+  "productName": "Electron TouchBar Sample",
+  "main": "main.js"
+}
